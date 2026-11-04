@@ -16,9 +16,9 @@ The primary source of Data used here is Sales.csv and this is an open-source dat
 
 ### Tools Used
 
-Ms Excel for Data Cleaning (download here)
-SQL Server (for Quering and Analysis)
-Power BI (for creating a report)
-Ms Power Point (for presentation)
+- Ms Excel for Data Cleaning [download here](https://www.microsoft.com)
+- SQL Server (for Quering and Analysis)
+- Power BI (for creating a report)
+- Ms Power Point (for presentation)
 
 This is where I built my first Portfolio while learning at Incubator Hub
